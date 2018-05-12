@@ -1,0 +1,26 @@
+_repo: A-Review-of-the-Systems-of-Ethics-Founded-on-the-Theory-of-Evolution_39155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Cora May
+    alias: Williams, C. M.
+    gutenberg_agent_id: '39867'
+    url: http://www.gutenberg.org/2009/agents/39867
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39155'
+  lccn: '04005453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics, Evolutionary'
+- !lcc 'BJ'
+title: A Review of the Systems of Ethics Founded on the Theory of Evolution
+url: http://www.gutenberg.org/ebooks/39155
